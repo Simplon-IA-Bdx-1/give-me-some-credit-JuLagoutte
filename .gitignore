@@ -1,3 +1,5 @@
 /docker/auth.env
 /csv_file
 /BatchPrediction
+/Credit-Split.ipynb
+/Credit-Model-Create-sklearn.ipynb

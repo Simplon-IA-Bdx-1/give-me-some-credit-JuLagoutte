@@ -2,3 +2,8 @@ bigml
 kaggle
 matplotlib
 rise
+autopep8
+jupyter_contrib_nbextensions
+papermill
+qgrid
+jupyterthemes
