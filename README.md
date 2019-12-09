@@ -1,5 +1,5 @@
 # give-me-some-credit-JuLagoutte
-give-me-some-credit-JuLagoutte created by GitHub Classroom
+##### give-me-some-credit-JuLagoutte created by GitHub Classroom
 Machine Learning Project - Competition Kaggle
 
 ## Pré-requis
