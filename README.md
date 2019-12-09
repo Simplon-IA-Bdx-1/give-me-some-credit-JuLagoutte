@@ -9,6 +9,7 @@ Machine Learning Project - Competition Kaggle
 * Kaggle
 
 ## Usages
+* **important** : télécharger les datasets [train](https://www.kaggle.com/c/GiveMeSomeCredit/data) et [test](https://www.kaggle.com/c/GiveMeSomeCredit/data) de la compétition Kaggle et les mettre dans un dossier ``csv_file\``
 * Avec `git clone`, récupérer le repo en locale sur votre laptop
 * Pour le fichier `auth.env`, reprendre le `auth-sample.env`, le renommer et remplacer par vos identifiants et vos mots de passe 
 * Créer le fichier `requirements.txt` avec tous les packages dont vous aurez besoin pour exécuter les notebooks
